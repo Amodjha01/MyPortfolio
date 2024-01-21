@@ -6,7 +6,7 @@ body{
 }
 .header{
     margin-top:0;
-    background-color: #f0400a;
+    background-color: #330066;
     position: fixed;
     top:0;
     width:100%;
@@ -153,12 +153,4 @@ body{
   padding: 2em;
   background-color: white;
   border-radius: 0.5em;
-}
-.contact-icons {
-  display: flex;
-  align-items: center;
-}
-
-.contact-icons img {
-  margin-right: 10px;
 }
