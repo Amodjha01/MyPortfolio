@@ -154,3 +154,11 @@ body{
   background-color: white;
   border-radius: 0.5em;
 }
+.contact-icons {
+  display: flex;
+  align-items: center;
+}
+
+.contact-icons img {
+  margin-right: 10px;
+}
