@@ -56,8 +56,7 @@ body{
   padding: 0.8em;
 }
 
-.brief-description,
-.goal{
+.brief-description{
   background-color: rgb(255, 255, 255);
   padding: 0.1em 2em;
   width: fit-content;
